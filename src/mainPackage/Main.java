@@ -9,6 +9,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hola caracola");
+		System.out.println("Adios");
 
 	}
 
